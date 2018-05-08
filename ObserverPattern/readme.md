@@ -66,5 +66,5 @@ sub12oclock.notify('大家去吃午餐～');
 
 ### Effect
 
-![2F2400B1-1A91-436A-B272-11AA9290C709](/Users/qiudw/Library/Containers/com.tencent.eimmac/Data/Library/Application Support/QQ/Users/2880968557/QQ/Temp.db/2F2400B1-1A91-436A-B272-11AA9290C709.jpg)
+![image](https://github.com/qiudongwei/pattern-struct/tree/master/ObserverPattern/images/ef.jpg)
 
