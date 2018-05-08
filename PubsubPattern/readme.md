@@ -33,5 +33,5 @@ pubsub.unsubscribe(pikaToken);
 
 ### Effect
 
-![E35167DE-5514-4052-B34A-FB788CD80D69](/Users/qiudw/Library/Containers/com.tencent.eimmac/Data/Library/Application Support/QQ/Users/2880968557/QQ/Temp.db/E35167DE-5514-4052-B34A-FB788CD80D69.jpg)
+![image](https://github.com/qiudongwei/pattern-struct/raw/master/PubsubPattern/images/ef.jpg)
 
