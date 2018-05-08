@@ -66,5 +66,5 @@ sub12oclock.notify('大家去吃午餐～');
 
 ### Effect
 
-![image](https://github.com/qiudongwei/pattern-struct/tree/master/ObserverPattern/images/ef.jpg)
+![image](https://github.com/qiudongwei/pattern-struct/raw/master/ObserverPattern/images/ef.jpg)
 
